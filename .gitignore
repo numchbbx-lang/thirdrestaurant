@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+node_modules/
+.vercel/
+secondproject-fc99b-firebase-adminsdk-fbsvc-978594e7dc.json
+data/database.json
